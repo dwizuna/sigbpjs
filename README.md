@@ -1,4 +1,7 @@
 # sigbpjs
+
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 SIGBPJS - web based sistem informasi geografis (SIG) / GIS fasilitas kesehatan - www.firstplato.com
 
 > Preview dan demo, cekidot https://www.youtube.com/watch?v=k1rP5-b67UU atau coba langsung di https://lab.firstplato.com/sigbpjs
