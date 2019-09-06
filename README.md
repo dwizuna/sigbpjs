@@ -45,3 +45,5 @@ Feel free to reach me on :
 - https://www.firstplato.com
 - https://www.facebook.com/firstplato
 - admin@firstplato.com
+
+> Repo ini tidak berafiliasi maupun bekerja sama dengan pihak BPJS maupun BPJS Kesehatan. Semua data yang dipakai merupakan data public yang didapat dari internet, dan tidak bersifat privat. Dengan tujuan edukasi, yaitu untuk pembelajaran mengenai cara kerja GMap API v3 dan pembuatan sistem informasi geografis dengan pemanfaatannya.
