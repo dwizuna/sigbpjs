@@ -166,6 +166,7 @@
 					prevPage              : '&laquo; Kembali',
 				});
 			});
+			//
 		</script>
 
   </body>

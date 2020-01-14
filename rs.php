@@ -165,7 +165,7 @@
 					nextPage              : 'Lanjut &raquo;',
 					prevPage              : '&laquo; Kembali',
 				});
-			});
+			});//
 		</script>
 
   </body>
